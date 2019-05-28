@@ -106,3 +106,7 @@ export PATH="/home/nathan/anaconda2/bin:$PATH"
 TERM=xterm-256color
 zstyle ':completion:*:default' list-colors ${(s.:.)LS_COLORS}
 source /home/nathan/.zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+export PATH="/home/nathan/Documents/apps/processing-3.3.6:$PATH"
+
+export GOOGLE_APPLICATION_CREDENTIALS="/home/nathan/Documents/dev/apikey.json"
